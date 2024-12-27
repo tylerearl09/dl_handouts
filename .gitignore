@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.vscode
+.DS_Store
+resources
+log
+tmp
+__pycache__
+--*
+*.autosave.ipe
+lecture_notes/dl-*.pdf
+*.keras
+datasets
