@@ -10,3 +10,20 @@ __pycache__
 lecture_notes/dl-*.pdf
 *.keras
 datasets
+
+
+# To be opened as the semester progresses
+03.autodifferentiation.ipynb
+04.introduction_to_pytorch_modules.ipynb
+05.working_with_data_and_datasets.ipynb
+06.more_on_training_deep_neural_networks.ipynb
+07.introduction_to_pytorch_lightning.ipynb
+08.convolutional_neural_networks.ipynb
+09.more_convolutional_neural_network_examples.ipynb
+10.transfer_learning.ipynb
+11.rnns_for_timeseries_forecasting.ipynb
+12.rnns_for_nlp.ipynb
+13.autoencoders.ipynb
+14.generative_deep_learning.ipynb
+15.encoder_decoder_models.ipynb
+16.hugging_face_transformers.ipynb
